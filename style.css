@@ -11,8 +11,7 @@ body {
 .wide-column {
 	background-color: #AA896A;
 	height: 100vh;
-	width: 50vw;
-	order: 1;
+	width: 50%;
 }
 
 
@@ -20,14 +19,12 @@ body {
 .column {
 	background-color: #84577E;
 	height: 100vh;
-	width: 25vw;
-	order: 0;
+	width: 25%;
 }
 .column2 {
 	background-color: #84577E;
 	height: 100vh;
-	width: 25vw;
-	order: 2;
+	width: 25%;
 }
 .img1 {
 content:url(images/Untitled-1.png);
@@ -71,6 +68,16 @@ content:url(images/Untitled-8.png);
 width: 45%;
 padding: 10px;
 }
+.img9 {
+content:url(images/Untitled-11.png);
+width: 45%;
+padding: 10px;
+}
+.img10 {
+content:url(images/Untitled12.png);
+width: 45%;
+padding: 10px;
+}
 @media screen and (max-width: 700px) {
 	body {
 	margin: 0;
@@ -88,13 +95,13 @@ padding: 10px;
 	.column {
 	background-color: #84577E;
 	height: 50vh;
-	width: 50vw;
+	width: 50%;
 	order: 1;
 	}
 	.column2 {
 	background-color: #84577E;
 	height: 50vh;
-	width: 50vw;
+	width: 50%;
 	order: 2;
 	}
 	.img1 {
