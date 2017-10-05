@@ -27,24 +27,24 @@ body {
 	width: 25%;
 }
 .img1 {
-content:url(images/Untitled-1.png);
+content:url(Untitled-1.png);
 width: 45%;
 padding: 10px;
 
 }
 .img2 {
-content:url(images/Untitled-2.png);
+content:url(Untitled-2.png);
 width: 45%;
 padding: 10px;
 
 }
 .img3 {
-content:url(images/Untitled-3.png);
+content:url(Untitled-3.png);
 width: 45%;
 padding: 10px;
 }
 .img4 {
-content:url(images/Untitled-4.png);
+content:url(Untitled-4.png);
  width: 45%;
 padding: 10px;
 }
